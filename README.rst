@@ -10,7 +10,7 @@ Install
 
 .. code-block::
 
-    $ git clone git@github.com:dmitryro/django-chat-bot.git
+    $ git clone git@github.com:dmitryro/django-chatbot.git
 
     $ pip install -e django-chat-bot
 
